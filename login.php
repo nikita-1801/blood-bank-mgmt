@@ -72,7 +72,7 @@
 
 
 <tr><td>&nbsp;</td><td><input type="submit" value="Log In" name="sbmt" style="border:0px; background:linear-gradient(#900,#D50000); width:100px; height:30px; border-radius:10px 1px 10px 1px; box-shadow:1px 1px 5px black; color:white; font-weight:bold; font-size:14px; text-shadow:1px 1px 6px black; "></td></tr>
- <tr><td style="font-size:14px">Not A DONOR.?</td><td ><a href="index1.php" style="color:#C30">Click here</a> to REGISTER.</td></tr>
+ <tr><td style="font-size:14px">Not A DONOR.?</td><td ><a href="registration.php" style="color:#C30">Click here</a> to REGISTER.</td></tr>
                         <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
               
 </table>
