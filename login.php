@@ -99,7 +99,7 @@
             </ul> -->
 	</div>
 		<div class="copy">
-			<p class="title">Group II -SKFGI- 2k17 Batch CSE </p>
+			<p class="title">Cloud Computing Project BCA Sem IV</p>
 		</div>
 	<div class="clear"></div>
 </div>
