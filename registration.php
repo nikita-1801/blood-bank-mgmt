@@ -123,7 +123,7 @@ $s="select * from bloodgroup";
             </ul>
 	</div>
 		<div class="copy">
-			<p class="title">  | Design by CSE-SKF-GroupII |</p>
+			<p class="title">  | Cloud Computing Project BCA Sem IV|</p>
 		</div>
 	<div class="clear"></div>
 </div>
