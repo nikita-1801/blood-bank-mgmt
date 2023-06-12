@@ -66,12 +66,11 @@
 We remind every visitor that we have the empowerment to save lives and let’s do that – right now, right here. If you are eligible for blood donation, please register yourself as a blood donor now!</p>
 			<p class="top">We also take this opportunity to thank our whole team for all your ideas, commitment and hard-ship in making this dream a reality. We would also like to thank our friends and well-wishers for all your support and encouragement throughout this project. It is now reasonably safe to say that together we have made this society a slightly better and safer place to live.</p>
 		<p class="top">Thank you and Happy Blood donating!</p>	
-        <p class="top"> Saikat Chakrabortty</p>
-<p>Sandip Ghosh</p>
-<p>Sanjoy Halder</p>
-<p>Subrata Manna</p>
+        <p class="top"> Saksham Aggarwal</p>
+<p>Mohil</p>
+<p>Shreya Sharma</p>
         <p class="top">Promoters,</p>
-<p>SKFGI Group II.</p>
+<p>Mrs. Komal</p>
        
 	</div>
 	<div class="sidebar">
@@ -110,7 +109,7 @@ We remind every visitor that we have the empowerment to save lives and let’s d
             </ul> -->
 	</div>
 		<div class="copy">
-			<p class="title">Group II -SKFGI- 2k17 Batch CSE </p>
+			<p class="title">Cloud Computing Project BCA Sem IV</p>
 		</div>
 	<div class="clear"></div>
 </div>
