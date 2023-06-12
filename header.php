@@ -6,7 +6,7 @@ $first_part = $components[1];
 ?>
 <ul class="nav">
             <li class="<?php if ($first_part=="") {echo "active"; } else  {echo "noactive";}?>"><a href="index.php">Home</a></li>   
-            <!-- <li><a href="registration.php">Donor Registration</a></li>             -->
+            <li class="<?php if ($first_part=="registration.php") {echo "active"; } else  {echo "noactive";}?>"><a href="registration.php">Registration</a></li>            
             <li class="<?php if ($first_part=="requests.php") {echo "active"; } else  {echo "noactive";}?>"><a href="requests.php">send Request</a></li> 
             <!--   <li><a href="viewrequest.php">View Request</a></li>  -->
             <li class="<?php if ($first_part=="login.php") {echo "active"; } else  {echo "noactive";}?>"><a href="login.php">Log In</a></li> 
